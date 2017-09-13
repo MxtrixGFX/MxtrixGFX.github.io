@@ -1,11 +1,6 @@
-html, body {
-    height: 100%;
-    margin: 0;
+div {
+    background: url("http://www.gifimagesdownload.com/wp-content/uploads/2016/02/12-background-gif-210-1.gif");
+    background-size: 80px 60px;
+    background-repeat: no-repeat;
 }
-
-.gif-container {
-  background: url("https://media.giphy.com/media/xTiTndRhkTeDSUEgak/giphy.gif") center;
-  background-size: cover;
-
-  height: 100%;
-}
+Try it Yourself »
