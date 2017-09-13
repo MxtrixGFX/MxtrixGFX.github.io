@@ -1,3 +1,11 @@
-body {
-    background: url("https://media.giphy.com/media/xTiTndRhkTeDSUEgak/giphy.gif");
-  }
+html, body {
+    height: 100%;
+    margin: 0;
+}
+
+.gif-container {
+  background: url("https://media.giphy.com/media/xTiTndRhkTeDSUEgak/giphy.gif") center;
+  background-size: cover;
+
+  height: 100%;
+}
