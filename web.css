@@ -7,3 +7,9 @@ h1{
   text-align: right;
   font-size: 36px;
 }
+
+img{
+    position: absloute;
+    border: 3px solid #73AD21;
+    padding: 10px;
+}
