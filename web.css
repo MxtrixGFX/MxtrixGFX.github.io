@@ -1,4 +1,9 @@
-
 html { 
     background-color: lightskyblue;
   }
+
+h1{
+  font-family: "Nexa Light";
+  text-align: right;
+  font-size: 36px;
+}
